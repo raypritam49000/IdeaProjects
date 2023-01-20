@@ -1,0 +1,18 @@
+file-server-url: http://localhost:8182
+logging:
+    com:
+        amitph: DEBUG
+    level:
+        root: INFO
+    pattern:
+        console: '%d{HH:mm:ss,SSS} - %msg%n'
+output-path: ~/Downloads/large2.json
+server:
+    port: 8183
+spring:
+    banner:
+        image:
+            height: 15
+            invert: true
+            margin: 10
+            width: 50

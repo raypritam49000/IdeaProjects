@@ -1,0 +1,12 @@
+#server:
+#   port:9999
+#
+#spring:
+#   cloud:
+#    consul:
+#      config:
+#        fail-fast: true
+#      host: localhost
+#      port: 8500
+#    application:
+#      name: javatechie

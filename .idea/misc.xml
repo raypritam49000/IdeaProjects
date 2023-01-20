@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/HFJ-SpringBoot-Redis-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-cache-rest-api-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-caching-java-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-criteria-query-project/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mongodb-aggregation-demo/spring-boot-mongodb-aggregation-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-cache-demo-project/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-Boot-Redis-Cache-Example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-cache-project/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redis-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-rest-api-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security-oauth2-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-vault-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-consul-server-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-jdbc-project/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-data-redis-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jasypt-encryptor-crud-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-flyway-migration/pom.xml" />
+        <option value="$PROJECT_DIR$/student-rest-api-project/pom.xml" />
+        <option value="$PROJECT_DIR$/custom-validation/pom.xml" />
+        <option value="$PROJECT_DIR$/file-storage/pom.xml" />
+        <option value="$PROJECT_DIR$/lookup-injection/pom.xml" />
+        <option value="$PROJECT_DIR$/file-storage-service/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-batch-example/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-batch-example-1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-batch-file-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot3-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-apache-camel/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-multiple-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-oauth2-rest-api-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-security-3.0/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-examples/spring-boot-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-examples/spring-boot-admin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-jasper-report/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mongo-atlas/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-multithreading-example/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

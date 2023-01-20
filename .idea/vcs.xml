@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HFJ-SpringBoot-Redis-Cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Spring-Boot-Redis-Cache-Example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootEcommerceApiJersey" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cache/Redis-Cache-CRUD-Application-using-Spring-Boot-Rest-and-Microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cache/spring-boot-redis-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cache/spring-boot-redis-cache-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cache/spring-boot-redis-cache-example/Redis-Cache-CRUD-Application-using-Spring-Boot-Rest-and-Microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/custom-validation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file-storage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/file-storage-service" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lookup-injection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactive-exception-handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redis-caching-java-spring-boot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-batch-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-batch-example-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-batch-file-upload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-apache-camel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-multiple-datasource" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-redis-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-redis-rest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-security-3.0" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot-security-oauth2-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-boot3-jwt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-redis-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-hazlecast-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-jasper-report" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-mysql-redis-cache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-mongo-atlas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot-multithreading-example" vcs="Git" />
+  </component>
+</project>

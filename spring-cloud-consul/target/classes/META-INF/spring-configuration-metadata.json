@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "my",
+      "type": "com.javatechie.consul.api.MyConfig",
+      "sourceType": "com.javatechie.consul.api.MyConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "my.password",
+      "type": "java.lang.String",
+      "sourceType": "com.javatechie.consul.api.MyConfig"
+    },
+    {
+      "name": "my.username",
+      "type": "java.lang.String",
+      "sourceType": "com.javatechie.consul.api.MyConfig"
+    }
+  ],
+  "hints": []
+}

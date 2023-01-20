@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Boot-Redis-Cache-Example/Spring-Boot-Redis-Cache-Example.iml" filepath="$PROJECT_DIR$/Spring-Boot-Redis-Cache-Example/Spring-Boot-Redis-Cache-Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-example/batch-processing-demo.iml" filepath="$PROJECT_DIR$/spring-batch-example/batch-processing-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HFJ-SpringBoot-Redis-Cache/book-marker-cache.iml" filepath="$PROJECT_DIR$/HFJ-SpringBoot-Redis-Cache/book-marker-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-validation/custom-validation.iml" filepath="$PROJECT_DIR$/custom-validation/custom-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lookup-injection/lookup-injection.iml" filepath="$PROJECT_DIR$/lookup-injection/lookup-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-cache/redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis-cache/redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-caching-java-spring-boot/redis-caching-spring-boot.iml" filepath="$PROJECT_DIR$/redis-caching-java-spring-boot/redis-caching-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-file-upload/spring-batch-example.iml" filepath="$PROJECT_DIR$/spring-batch-file-upload/spring-batch-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-batch-example-1/spring-batch-example-1.iml" filepath="$PROJECT_DIR$/spring-batch-example-1/spring-batch-example-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-examples/spring-boot-actuator/spring-boot-actuator.iml" filepath="$PROJECT_DIR$/spring-examples/spring-boot-actuator/spring-boot-actuator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-client/spring-boot-admin-client.iml" filepath="$PROJECT_DIR$/spring-boot-admin-client/spring-boot-admin-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-admin-server/spring-boot-admin-server.iml" filepath="$PROJECT_DIR$/spring-boot-admin-server/spring-boot-admin-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-examples/spring-boot-admin-server/spring-boot-admin-server (1) (com.amitph.spring).iml" filepath="$PROJECT_DIR$/spring-examples/spring-boot-admin-server/spring-boot-admin-server (1) (com.amitph.spring).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-apache-camel/spring-boot-camel.iml" filepath="$PROJECT_DIR$/spring-boot-apache-camel/spring-boot-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul/spring-boot-consul.iml" filepath="$PROJECT_DIR$/spring-cloud-consul/spring-boot-consul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-criteria-query-project/spring-boot-criteria-query-project.iml" filepath="$PROJECT_DIR$/spring-boot-criteria-query-project/spring-boot-criteria-query-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jasypt-encryptor-crud-demo/spring-boot-crud-demo.iml" filepath="$PROJECT_DIR$/spring-jasypt-encryptor-crud-demo/spring-boot-crud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-jasper-report/spring-boot-jasper-report.iml" filepath="$PROJECT_DIR$/spring-jasper-report/spring-boot-jasper-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-mongodb-aggregation-demo/spring-boot-mongodb-aggregation-demo/spring-boot-mongodb-aggregation-demo.iml" filepath="$PROJECT_DIR$/spring-boot-mongodb-aggregation-demo/spring-boot-mongodb-aggregation-demo/spring-boot-mongodb-aggregation-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-multiple-datasource/spring-boot-multiple-ds.iml" filepath="$PROJECT_DIR$/spring-boot-multiple-datasource/spring-boot-multiple-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-oauth2-rest-api-demo/spring-boot-oauth2-rest-api-demo.iml" filepath="$PROJECT_DIR$/spring-boot-oauth2-rest-api-demo/spring-boot-oauth2-rest-api-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-cache-demo-project/spring-boot-redis-cache.iml" filepath="$PROJECT_DIR$/spring-boot-redis-cache-demo-project/spring-boot-redis-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-cache-project/spring-boot-redis-cache (1) (com.coderkan).iml" filepath="$PROJECT_DIR$/spring-boot-redis-cache-project/spring-boot-redis-cache (1) (com.coderkan).iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis-cache-rest-api-demo/spring-boot-redis-cache-example.iml" filepath="$PROJECT_DIR$/redis-cache-rest-api-demo/spring-boot-redis-cache-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rest-api-demo/spring-boot-rest-api-demo.iml" filepath="$PROJECT_DIR$/spring-boot-rest-api-demo/spring-boot-rest-api-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-oauth2-example/spring-boot-security-oauth2-example.iml" filepath="$PROJECT_DIR$/spring-boot-security-oauth2-example/spring-boot-security-oauth2-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-vault-server-demo/spring-boot-vault-server-demo.iml" filepath="$PROJECT_DIR$/spring-boot-vault-server-demo/spring-boot-vault-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-consul-server-demo/spring-cloud-consul-server-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-consul-server-demo/spring-cloud-consul-server-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-jdbc-project/spring-data-jdbc-project.iml" filepath="$PROJECT_DIR$/spring-data-jdbc-project/spring-data-jdbc-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-data-redis-cache/spring-data-redis-example.iml" filepath="$PROJECT_DIR$/spring-data-redis-cache/spring-data-redis-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-rest/spring-redis.iml" filepath="$PROJECT_DIR$/spring-boot-redis-rest/spring-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-redis-example/spring-redis-example.iml" filepath="$PROJECT_DIR$/spring-boot-redis-example/spring-redis-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot3-jwt/spring-security-latest.iml" filepath="$PROJECT_DIR$/spring-boot3-jwt/spring-security-latest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-security-3.0/spring-security-latest (1).iml" filepath="$PROJECT_DIR$/spring-boot-security-3.0/spring-security-latest (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongo-atlas/springbbot-mongo-atlas.iml" filepath="$PROJECT_DIR$/springboot-mongo-atlas/springbbot-mongo-atlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-flyway-migration/springboot-flyway-migration.iml" filepath="$PROJECT_DIR$/springboot-flyway-migration/springboot-flyway-migration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-multithreading-example/springboot-multithreading-example.iml" filepath="$PROJECT_DIR$/springboot-multithreading-example/springboot-multithreading-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-storage/storage-service.iml" filepath="$PROJECT_DIR$/file-storage/storage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-storage-service/storage-service (1).iml" filepath="$PROJECT_DIR$/file-storage-service/storage-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-rest-api-project/student-rest-api-project.iml" filepath="$PROJECT_DIR$/student-rest-api-project/student-rest-api-project.iml" />
+    </modules>
+  </component>
+</project>

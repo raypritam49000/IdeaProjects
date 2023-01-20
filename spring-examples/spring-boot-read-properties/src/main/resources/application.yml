@@ -1,0 +1,66 @@
+default-username: default_user
+default-password: password_default
+connection-timeout: 2000
+
+login-service:
+  login-url: https://login.example.com
+  username: login_user
+  password: password123
+  header:
+    auth_token: TOKEN
+    content: C_TYPE
+
+user-service:
+  url: https://users.example.com
+  username: user_name
+  password: strong-password
+
+spring:
+  application:
+    name: data-service
+  servlet:
+    multipart:
+      enabled: true
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3309/test
+    password: password
+    username: test_user
+  profiles:
+    active:
+      - dev
+      - qa
+      - staging
+      - PROD
+
+config:
+  env:
+    - dev
+    - qa
+    - prod
+  miscellaneous:
+    -
+      poll-frequency: 20
+      timeout: 10
+      max-retry: 3
+    -
+      log-erros: true
+      fail-on-errors: false
+    -
+      publish-metrics: true
+      metrics-frequency: 30
+  services:
+    -
+      name: login-service
+      url: http://login.example.com
+    -
+      name: data-service
+      url: http://data.example.com
+
+
+connection:
+  host: 192.0.2.1
+  port: 8181
+  timeout: 30000
+  notify: support@example.com
+  error-file: logs/error.log

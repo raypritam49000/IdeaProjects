@@ -1,0 +1,6 @@
+com/hfj/bookmarker/controller/IndexController.class
+com/hfj/bookmarker/exception/ResourceNotFoundException.class
+com/hfj/bookmarker/repository/BookmarkerRepository.class
+com/hfj/bookmarker/BookmarkersApplication.class
+com/hfj/bookmarker/model/Bookmarker.class
+com/hfj/bookmarker/controller/BookmarkerController.class
